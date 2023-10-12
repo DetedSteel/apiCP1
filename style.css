@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 14px;
+  padding: 20px;
+  width: fit-content;
+}
+
+thead {
+  background-color: black;
+  color: white;
+}
+
+th {
+  padding: 10px 20px;
+}
+
